@@ -1,4 +1,5 @@
-The file must be in the same folder as the cat_and_dog_filtered data folder : 
+The file must be in the same folder as the cat_and_dog_filtered data folder : \n
+
 Project--->cat_and_dog_filtered folder 
  |
  |---> CNN-Project--Machine-learning file
