@@ -1,6 +1,7 @@
 The file must be in the same folder as the cat_and_dog_filtered data folder :
 
 Project--->cat_and_dog_filtered folder 
+ 
  |
  |---> CNN-Project--Machine-learning file
 
