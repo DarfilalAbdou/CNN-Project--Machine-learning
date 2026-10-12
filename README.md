@@ -1,4 +1,4 @@
-The file must be in the same folder as the cat_and_dog_filtered data folder : \n
+The file must be in the same folder as the cat_and_dog_filtered data folder :
 
 Project--->cat_and_dog_filtered folder 
  |
